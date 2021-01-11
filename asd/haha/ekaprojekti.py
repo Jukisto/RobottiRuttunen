@@ -8,7 +8,6 @@ if __name__ == '__main__':
     pass
 
 import json
-import urllib.request
 from urllib.request import Request, urlopen
 
 # download raw json object
