@@ -1,0 +1,19 @@
+```diff
+- Viikko : 6
+
+- Maanantai
++ Juustoista broilerpataa ja täysjyväriisiä 
+ 
+- Tiistai
++ Kinkkukiusaus 
+ 
+- Keskiviikko
++ Jauheliha Chili con carnea ja täysjyväriisiä 
+ 
+- Torstai
++ Rosepippuriporsasta ja riisiä 
+ 
+- Perjantai
++ Broiler-parsakaalivuokaa 
+ 
+```

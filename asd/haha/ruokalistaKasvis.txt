@@ -1,0 +1,19 @@
+```diff
+- Viikko : 6
+
+- Maanantai
++ Chili-härkäpapupataa ja riisiä 
+ 
+- Tiistai
++ Linssi-munakoisokormaa ja täysjyväriisiä 
+ 
+- Keskiviikko
++ Juures-soija Burgundia 
+ 
+- Torstai
++ Vegepuikot, omena-currymajoneesia ja riisiä 
+ 
+- Perjantai
++ Soija-pähkinä ratatouillea ja täysjyväriisiä 
+ 
+```
