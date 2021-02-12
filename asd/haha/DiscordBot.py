@@ -39,5 +39,5 @@ async def on_message(message):
         await message.channel.send('Nykyiset komennot: !ruokalista, !kasvisruoka')
         
         
-client.run('TOKEN')     
+client.run('ODA5NDk4NzE1MjYxMjM5MzU3.YCV-bQ.X_W3xP59nnlgVd1GltARjQ0BshY')     
     
